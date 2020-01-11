@@ -55,6 +55,10 @@ A collection of ios security related resources
 
 1. [PhoenixPwn](https://phoenixpwn.com) - Jailbreak for 9.3.5 32-bit devices.
 
+## iOS Security Telegram Channel
+
+1. [Telegram Link ](https://t.me/SecOpsChannel) - Lot other apart of IOS Security.
+
 ### Other Awesome Lists
 Other amazingly awesome lists can be found in the
 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
