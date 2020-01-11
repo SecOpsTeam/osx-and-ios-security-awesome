@@ -1,3 +1,12 @@
+### IT Security Telegram Channel
+
+1. [Telegram Link ](https://t.me/SecOpsChannel) - Lot other from the world of Security.
+
+### IT Security Mobile App to keep you updated..
+
+1. [AttackIO App ](https://attackio.app/) - The world of information security is now in your palm !!.
+
+
 # macOS and iOS Security Related Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) <a href="https://travis-ci.org/ashishb/android-security-awesome"><img src="https://img.shields.io/travis/ashishb/osx-and-ios-security-awesome/master.svg?label=URL%20Check" alt="URL Check"></a>
 
 ## Contents
